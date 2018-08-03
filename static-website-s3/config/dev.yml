@@ -2,4 +2,4 @@ config:
   client:
     baseDir: testapp
     distDir: build
-    bucketName: dev.test12345.com
+    bucketName: dev.test12345melontest.com

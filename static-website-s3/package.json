@@ -2,9 +2,14 @@
   "name": "static-website-s3",
   "version": "1.0.0",
   "description": "Static Website to S3 Demo",
-  "main": "",
+  "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "serverless-client-s3": "https://github.com/kevinold/serverless-client-s3#serverless-1.0"
-  }
+    "serverless-client-s3": "git+https://github.com/kevinold/serverless-client-s3.git#serverless-1.0"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
 }

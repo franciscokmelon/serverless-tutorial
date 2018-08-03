@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "Hello World Serverless Demo",
   "main": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "serverless": "^1.29.2"
+  }
 }

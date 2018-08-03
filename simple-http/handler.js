@@ -7,7 +7,7 @@ module.exports.greeting = (event, context, callback) => {
       message: "Hello!!!",
     })
   };
-
+  console.log("Event:", event);
   callback(null, response);
 };
 

@@ -1,10 +1,6 @@
-## Overview
-
-Examples to be used with the [Building and Deploying Microservices with the Serverless Framework](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58496) tutorial at [Fluent Conf 2017](https://conferences.oreilly.com/fluent/fl-ca).
-
 ## Install
 
-1. Node.js v6.5.0 or later
+1. Node.js v6.1.0 / v8.1.0 or later
 2. Serverless CLI v1.14.0 or later --- run `npm install -g serverless` to install.
 3. Create an AWS Account, create an IAM user with Admin access and setup the Access Keys in your environment. [Instructions can be found here that walk you through the process](https://serverless.com/framework/docs/providers/aws/guide/credentials/)
 	- Additional Resources:

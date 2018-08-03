@@ -1,4 +1,4 @@
-service: csv-to-json
+service: csv-to-json-test
 
 frameworkVersion: ">=1.8.0 <2.0.0"
 
